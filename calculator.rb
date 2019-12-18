@@ -7,3 +7,15 @@ def sum
 end
 
 sum
+
+def difference
+  return first_number - second_number
+end
+
+def product
+  return first_number * second_number
+end
+
+def quotient 
+  return first_number / second_number
+end
