@@ -2,29 +2,29 @@
 # first_number = 1
 # second_number = 2
 
-def add 
+# def add 
   sum = first_number + second_number
-  return sum
-end
+#   return sum
+# end
 
-sum
+# sum
 
-def subtract
+# def subtract
   difference = first_number - second_number
-  return difference
-end
+#   return difference
+# end
 
-difference
+# difference
 
-def multiply
+# def multiply
   product = first_number * second_number
-end
+# end
 
-product
+# product
 
-def divide 
+# def divide 
   quotient = first_number / second_number
-  return quotient
-end
+#   return quotient
+# end
 
-quotient
+# quotient
