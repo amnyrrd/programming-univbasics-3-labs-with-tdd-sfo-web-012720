@@ -1,6 +1,6 @@
 # Add your variables here
-# first_number = 1
-# second_number = 2
+first_number = 1
+second_number = 2
 
 # def add 
   sum = first_number + second_number
