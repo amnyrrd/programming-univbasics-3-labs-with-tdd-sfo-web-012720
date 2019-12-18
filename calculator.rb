@@ -2,27 +2,27 @@
 # first_number = 1
 # second_number = 2
 
-def sum 
+def add 
   sum = first_number + second_number
   return sum
 end
 
 sum
 
-def difference
+def subtract
   difference = first_number - second_number
   return difference
 end
 
 difference
 
-def product
+def multiply
   product = first_number * second_number
 end
 
 product
 
-def quotient 
+def divide 
   quotient = first_number / second_number
   return quotient
 end
